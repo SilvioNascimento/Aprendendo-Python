@@ -7,5 +7,8 @@ st.set_page_config(layout="wide")
 df_reviews = pd.read_csv("./datasets/customer reviews.csv")
 df_top100_books = pd.read_csv("./datasets/Top-100 Trending Books.csv")
 
-# Exibe a tabela de dados sobre reviews
-df_reviews
+
+
+
+
+
