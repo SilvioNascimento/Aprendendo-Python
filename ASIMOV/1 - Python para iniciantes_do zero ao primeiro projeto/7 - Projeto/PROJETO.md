@@ -27,7 +27,15 @@ Instalando as dependências:
     ```
 
 * pandas
+    ```bash
+    pip install pandas
+    ```
+
 * plotly
+    ```bash
+    pip install plotly
+    ```
+
 
 Inicializando o _app.py_ ou pelo terminal:
 ```bash
