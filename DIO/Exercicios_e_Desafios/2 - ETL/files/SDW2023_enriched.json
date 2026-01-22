@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "name": " Silvio Nascimento Ribeiro",
+    "account": {
+      "id": 1,
+      "number": " 0001-1",
+      "agency": 1,
+      "balance": 0.0,
+      "limit": 500.0
+    },
+    "card": {
+      "id": 9,
+      "number": " **** **** 1111",
+      "limit": 1000.0
+    },
+    "features": [],
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Silvio Nascimento Ribeiro, invista hoje para garantir seu futuro e ver seu dinheiro render mais!"
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Silvio, invista hoje para garantir sua segurança e liberdade amanhã. Seu futuro começa agora!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": " Maria Cecília Nascimento Ribeiro",
+    "account": {
+      "id": 3,
+      "number": " 0002-2",
+      "agency": 1,
+      "balance": 0.0,
+      "limit": 500.0
+    },
+    "card": {
+      "id": 2,
+      "number": " **** **** 2222",
+      "limit": 1000.0
+    },
+    "features": [],
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Maria Cecília Nascimento Ribeiro, invista hoje e garanta seu futuro. Faça o dinheiro render!"
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Maria Cecília Nascimento Ribeiro, invista hoje e garanta o futuro que você merece!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": " Cícera Nascimento Ribeiro",
+    "account": {
+      "id": 4,
+      "number": " 0003-3",
+      "agency": 1,
+      "balance": 0.0,
+      "limit": 500.0
+    },
+    "card": {
+      "id": 4,
+      "number": " **** **** 3333",
+      "limit": 1000.0
+    },
+    "features": [],
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Cícera, invista hoje para garantir um amanhã seguro e próspero. Seu dinheiro merece render!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": " Antônia Beatriz Nascimento Ribeiro",
+    "account": {
+      "id": 7,
+      "number": " 0004-4",
+      "agency": 1,
+      "balance": 0.0,
+      "limit": 500.0
+    },
+    "card": {
+      "id": 7,
+      "number": " **** **** 4444",
+      "limit": 1000.0
+    },
+    "features": [],
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Antônia Beatriz Nascimento Ribeiro, investir é fundamental para garantir seu futuro. Comece hoje!"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": " Maria do Nascimento de Lima",
+    "account": {
+      "id": 2,
+      "number": " 0005-5",
+      "agency": 1,
+      "balance": 0.0,
+      "limit": 500.0
+    },
+    "card": {
+      "id": 1,
+      "number": " **** **** 5555",
+      "limit": 1000.0
+    },
+    "features": [],
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Maria, invista agora para ver seu dinheiro crescer e realizar seus sonhos com segurança."
+      }
+    ]
+  }
+]
