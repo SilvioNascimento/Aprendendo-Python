@@ -1,0 +1,6 @@
+UserID,UserName,Account_ID,Account_Number,Account_Agency,Account_Balance,Account_Limit,Card_ID,Card_Number,Card_Limit,News
+1, Silvio Nascimento Ribeiro,1, 0001-1,1,0.0,500.0,9, **** **** 1111,1000.0,"[""Silvio Nascimento Ribeiro, invista hoje para garantir seu futuro e ver seu dinheiro render mais!""]"
+2, Maria Cecília Nascimento Ribeiro,3, 0002-2,1,0.0,500.0,2, **** **** 2222,1000.0,"[""Maria Cecília Nascimento Ribeiro, invista hoje e garanta seu futuro. Faça o dinheiro render!""]"
+3, Cícera Nascimento Ribeiro,4, 0003-3,1,0.0,500.0,4, **** **** 3333,1000.0,"[""Cícera, invista hoje para garantir um amanhã seguro e próspero. Seu dinheiro merece render!""]"
+4, Antônia Beatriz Nascimento Ribeiro,7, 0004-4,1,0.0,500.0,7, **** **** 4444,1000.0,"[""Antônia Beatriz Nascimento Ribeiro, investir é fundamental para garantir seu futuro. Comece hoje!""]"
+5, Maria do Nascimento de Lima,2, 0005-5,1,0.0,500.0,1, **** **** 5555,1000.0,"[""Maria, invista agora para ver seu dinheiro crescer e realizar seus sonhos com segurança.""]"
